@@ -21,7 +21,7 @@ Some of us developers have trouble crafting messages with meaningful semantics, 
 send(some_pid, {:update, some_data})
 ```    
 
-By using `AMessage`, maybe it'll be easier for you to capture some of the essence of what you're trying to accomplish, giving someone else (maybe you at a later time) enough context to come up with a more meaningful semantic at a later date.
+By using `AMessage`, maybe it'll be easier for you to capture some of the essence of what you're trying to accomplish, giving someone else (maybe you at a later time) enough context to come up with more meaningful semantics at a later date.
 
 ``````elixir
 # OK, I see this module is sending updated endpoints to SomeModule
