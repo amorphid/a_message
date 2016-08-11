@@ -1,0 +1,2 @@
+defmodule AMessage do
+end
